@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-    <circle r="100" cx="150" cy="100" fill="orange"/>
-    <text x="150" y="100" text-anchor="middle" alignment-baseline="middle" font-size="110" fill="#420CAD">tex</text>
+    <rect x='50' width="200" height="200" fill="orange" />
+    <text x="150" y="100" text-anchor="middle" alignment-baseline="middle" font-size="100" fill="#420CAD">pax</text>
 </svg>
